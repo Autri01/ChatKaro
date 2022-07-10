@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690571266714",
+    "project_id": "chatkaro-cafa9",
+    "storage_bucket": "chatkaro-cafa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690571266714:android:4897993d6696686988ad23",
+        "android_client_info": {
+          "package_name": "com.example.chatkaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690571266714-drrkhc6bua75odij7tm1o8mkmffca5ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0ehe2-quP_eofLuMCm-EQJ-66fTjSMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690571266714-drrkhc6bua75odij7tm1o8mkmffca5ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
